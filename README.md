@@ -116,7 +116,7 @@ Duoc UC
 ## 🐍 GitHub Contributions
 
 <p align="center">
-![snake animation](https://raw.githubusercontent.com/valeskaleiva/valeskaleiva/gh-pages/github-contribution-grid-snake.svg)
+https://raw.githubusercontent.com/valeskaleiva/valeskaleiva/gh-pages/github-contribution-grid-snake.svg?raw=true
 </p>
 
 ---
