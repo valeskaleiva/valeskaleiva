@@ -50,41 +50,6 @@ Actualmente estoy fortaleciendo mis conocimientos en desarrollo web, arquitectur
 
 ---
 
-# 💼 Proyecto Destacado
-
-## 🦎 Gecko Card TCG
-
-Aplicación web desarrollada como proyecto de título para una tienda real de cartas coleccionables.
-
-### Funcionalidades:
-- Gestión de productos mediante CRUD.
-- Sistema de autenticación con JWT.
-- Administración de usuarios y roles.
-- Scanner para apoyo al proceso de venta.
-- Reportes y gestión de información.
-- Consumo y creación de APIs REST.
-- Pruebas automatizadas del backend.
-
-### Tecnologías utilizadas:
-
-**Frontend**
-- React + Vite
-- Tailwind CSS
-
-**Backend**
-- Django REST Framework
-- JWT
-
-**Base de datos**
-- Oracle SQL
-- SQLite
-
-**Despliegue**
-- Docker
-- AWS
-- Nginx
-
----
 
 # 🎓 Formación
 
