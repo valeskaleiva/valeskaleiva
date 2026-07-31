@@ -114,11 +114,11 @@ Duoc UC
 
 # 📫 Contacto
 
-💼 LinkedIn: [Tu LinkedIn]
+💼 LinkedIn: https://www.linkedin.com/in/valeleiva/
 
-🌐 Portfolio: [Tu Portfolio]
+🌐 Portfolio: https://valecode.vercel.app
 
-📧 Email: [Tu correo]
+📧 Email: valeleivarojo@gmail.com
 
 ---
 
