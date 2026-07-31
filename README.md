@@ -1,61 +1,127 @@
-<div align="center">
+# 👩‍💻 Valeska Leiva
 
-# 👋 ¡Hola! Soy Valeska Leiva
+## Analista Programadora | Full Stack Junior
 
-### 💻 Full Stack Developer
+¡Hola! Soy Valeska Leiva, Analista Programadora titulada en Duoc UC.
 
-🎓 Analista Programadora
+Me apasiona el desarrollo web y la creación de soluciones digitales que aporten valor a las personas. Me enfoco en el desarrollo Full Stack, trabajando con tecnologías modernas para construir aplicaciones eficientes, escalables y con buenas prácticas de desarrollo.
 
-📍 Chile
-
-🌱 Actualmente aprendiendo .NET y Angular
-
-💼 Buscando oportunidades como Full Stack Developer Junior
-
-<br>
-
-<a href="https://www.linkedin.com/in/valeleiva/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/valeskaleiva">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://valecode.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge"/>
-</a>
-
-</div>
+Actualmente estoy fortaleciendo mis conocimientos en desarrollo web, arquitectura de software, bases de datos y nuevas tecnologías.
 
 ---
 
-## 🌸 Sobre mí
+# 🚀 Tecnologías
 
-Soy Analista Programadora apasionada por el desarrollo Full Stack.
-
-Me gusta crear aplicaciones web modernas, intuitivas y escalables utilizando tecnologías como Vue, React, Java y Django.
-
-Actualmente me encuentro buscando mi primera oportunidad como desarrolladora mientras continúo aprendiendo nuevas tecnologías y desarrollando proyectos personales.
-
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=valeskaleiva&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valeskaleiva&layout=compact&theme=tokyonight" width="40%" />
+## Frontend
+<p>
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 
-<!--
-**valeskaleiva/valeskaleiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Backend
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Bases de Datos
+<p>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</p>
+
+
+## Herramientas
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
+
+---
+
+# 💼 Proyecto Destacado
+
+## 🦎 Gecko Card TCG
+
+Aplicación web desarrollada como proyecto de título para una tienda real de cartas coleccionables.
+
+### Funcionalidades:
+- Gestión de productos mediante CRUD.
+- Sistema de autenticación con JWT.
+- Administración de usuarios y roles.
+- Scanner para apoyo al proceso de venta.
+- Reportes y gestión de información.
+- Consumo y creación de APIs REST.
+- Pruebas automatizadas del backend.
+
+### Tecnologías utilizadas:
+
+**Frontend**
+- React + Vite
+- Tailwind CSS
+
+**Backend**
+- Django REST Framework
+- JWT
+
+**Base de datos**
+- Oracle SQL
+- SQLite
+
+**Despliegue**
+- Docker
+- AWS
+- Nginx
+
+---
+
+# 🎓 Formación
+
+🎓 **Analista Programador**  
+Duoc UC
+
+---
+
+# 📚 Actualmente aprendiendo
+
+- .NET
+- Angular
+- Arquitectura de software
+- Buenas prácticas de desarrollo
+- Testing y calidad de software
+
+---
+
+# 📊 Estadísticas de GitHub
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=valeskaleiva&show_icons=true&theme=rose_pine" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valeskaleiva&layout=compact&theme=rose_pine" width="40%"/>
+</p>
+
+---
+
+# 📫 Contacto
+
+💼 LinkedIn: [Tu LinkedIn]
+
+🌐 Portfolio: [Tu Portfolio]
+
+📧 Email: [Tu correo]
+
+---
+
+<p align="center">
+✨ Gracias por visitar mi perfil ✨
+</p>
