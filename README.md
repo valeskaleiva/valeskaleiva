@@ -38,6 +38,13 @@ Me gusta crear aplicaciones web modernas, intuitivas y escalables utilizando tec
 
 Actualmente me encuentro buscando mi primera oportunidad como desarrolladora mientras continúo aprendiendo nuevas tecnologías y desarrollando proyectos personales.
 
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=valeskaleiva&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valeskaleiva&layout=compact&theme=tokyonight" width="40%" />
+</p>
+
 <!--
 **valeskaleiva/valeskaleiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
