@@ -113,6 +113,13 @@ Duoc UC
 📧 Email: valeleivarojo@gmail.com
 
 ---
+## 🐍 GitHub Contributions
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/valeskaleiva/valeskaleiva/output/github-contribution-grid-snake.svg">
+</p>
+
+---
 
 <p align="center">
 ✨ Gracias por visitar mi perfil ✨
